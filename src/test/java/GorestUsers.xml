@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="GoRest Users API Test">
         <classes>
-            <class name="POJOClasses.GoRestUsers"></class>
+            <class name="GoRestUsers"></class>
         </classes>
     </test>
 </suite>

@@ -1,5 +1,3 @@
-package POJOClasses;
-
 import POJOClasses.User;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;
